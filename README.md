@@ -2,4 +2,4 @@
 
 <h2><a href="https://orlovskyden.github.io/js-game-click-squares/" target="_blank">Live app</a></h2>
 
-<h2><a href="https://orlovskyden.github.io/minin-course-chapter-3/" target="_blank"><img alt="thumbnail" src="https://i.postimg.cc/5tdDgNCq/3.jpg" style="height:390px; margin:10px; width:800px"></a></h2>
+<h2><a href="https://orlovskyden.github.io/js-game-click-squares/" target="_blank"><img alt="thumbnail" src="https://i.postimg.cc/CKKwDShN/JS-game.jpg" style="height:396px; margin:10px; width:600px"></a></h2>
